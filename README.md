@@ -23,10 +23,15 @@ I am currently looking for **internship opportunities** where I can apply my lin
 ## Languages
 
 Italian (mother-tongue)
-Arabic (mother-tongue
+
+Arabic (mother-tongue)
+
 French (native-level)
+
 English (C1-C2)
+
 German (C1)
+
 Spanish (C1)
 
 ---
