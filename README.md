@@ -15,17 +15,19 @@ I am a **Languages and International Trade student**, with a strong interest in:
 - administration
 - multicultural and multilingual environments
 
-I am currently looking for **internship opportunities** where I can apply my linguistic, organizational, and analytical skills.
+I am currently looking for **internship opportunities** where I can apply my linguistic, organizational, and analytical skills in Nancy, France.
 
-📍 Nancy, France  
 
 ---
 
 ## Languages
 
-- French (fluent)
-- English (fluent)
-- Italian (advanced)
+Italian (mother-tongue)
+Arabic (mother-tongue
+French (native-level)
+English (C1-C2)
+German (C1)
+Spanish (C1)
 
 ---
 
@@ -34,16 +36,16 @@ I am currently looking for **internship opportunities** where I can apply my lin
 This portfolio includes:
 
 - **CV**  
-  Multilingual versions of my curriculum vitae.
+  Multilingual versions of my curriculum vitae.[Arayech Wisal FR.pdf](https://github.com/user-attachments/files/24498684/Arayech.Wisal.FR.pdf)
+[Arayech Wisal ENG.pdf](https://github.com/user-attachments/files/24498680/Arayech.Wisal.ENG.pdf)
 
-- **Cover Letters**  
-  Internship and job application letters adapted to different sectors.
 
 - **University Projects**  
-  Academic projects related to international trade, communication, and economics.
+  Academic projects related to international trade, communication, and economics.[Matchify E-commerce.pdf](https://github.com/user-attachments/files/24498754/Matchify.E-commerce.pdf)
+  
 
 - **Research & Analysis**  
-  Market analysis, country research, and academic reports.
+  Market analysis, country research, and academic reports. 
 
 ---
 
@@ -59,7 +61,7 @@ This portfolio includes:
 
 ## Objective
 
-To build a professional profile oriented toward **international trade, administration, communication, and export-related activities**, while continuously developing my skills in a global context.
+To build a professional profile oriented toward **international trade, export-related activities, administration and communication**, while continuously developing my skills in a global context.
 
 ---
 
