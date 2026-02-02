@@ -15,7 +15,6 @@ I am a **Languages and International Trade student**, with a strong interest in:
 - administration
 - multicultural and multilingual environments
 
-I am currently looking for **internship opportunities** where I can apply my linguistic, organizational, and analytical skills in Nancy, France.
 
 
 ---
